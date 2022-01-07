@@ -1,5 +1,6 @@
 @extends('layouts.layout')
 
+@section('nama_user', 'Admin Front Office')
 @section('content')
 
 <div class="content mt-3">

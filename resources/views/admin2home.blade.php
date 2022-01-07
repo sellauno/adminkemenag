@@ -1,5 +1,5 @@
 @extends('layouts.layout')
-
+@section('nama_user', 'Admin Back Office')
 @section('content')
 
 <div class="content mt-3">
